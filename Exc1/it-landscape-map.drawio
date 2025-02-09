@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Страница — 1" id="nYXACrghyVV1ne8XHtKU">
+    <mxGraphModel dx="2314" dy="2275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-1" value="Автоматизированная&lt;div&gt;Банковская&lt;/div&gt;&lt;div&gt;Система&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="-820" width="1120" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-35" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="210" y="-920" width="1223" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-30" value="Обслуживание депозитов" style="swimlane;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-35" vertex="1">
+          <mxGeometry x="623" width="200" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-34" value="" style="group" parent="8TirWuEOOu0FfT8jYFeL-35" vertex="1" connectable="0">
+          <mxGeometry width="1223" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-27" value="Продажи в отделениях" style="swimlane;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-34" vertex="1">
+          <mxGeometry x="23" width="200" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-28" value="Продажи через колл-центр" style="swimlane;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-34" vertex="1">
+          <mxGeometry x="223" width="200" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-29" value="Digital-оповещения" style="swimlane;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-34" vertex="1">
+          <mxGeometry x="423" width="200" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-31" value="Обслуживание кредитов" style="swimlane;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-34" vertex="1">
+          <mxGeometry x="823" width="200" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-32" value="Управление договорами" style="swimlane;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-34" vertex="1">
+          <mxGeometry x="1023" width="200" height="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-33" value="" style="group" parent="8TirWuEOOu0FfT8jYFeL-34" vertex="1" connectable="0">
+          <mxGeometry y="20" width="1223" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-21" value="Управление обслуживанием" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry y="1000" width="1223" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-22" value="Колл-центр" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry y="800" width="1223" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-23" value="IT-отдел" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry y="600" width="1223" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-24" value="Управление депозитами" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry y="400" width="1223" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-25" value="Управление кредитами" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry y="200" width="1223" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-26" value="Цифровая трансформация" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry width="1223" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-2" value="Интернет-&lt;span style=&quot;background-color: initial;&quot;&gt;банк&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry x="650" y="530" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-6" value="Телеком оператор" style="rounded=1;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry x="453" y="870" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-5" value="SMS шлюз" style="rounded=1;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry x="263" y="690" width="127" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-4" value="Система партнерского&lt;div&gt;колл-центра&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry x="270" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-7" value="Сайт" style="rounded=1;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry x="650" y="460" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TirWuEOOu0FfT8jYFeL-36" value="Система&lt;div&gt;колл-центра&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="8TirWuEOOu0FfT8jYFeL-33" vertex="1">
+          <mxGeometry x="270" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
